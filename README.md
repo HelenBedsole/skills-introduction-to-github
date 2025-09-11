@@ -1,3 +1,5 @@
+a little about myself: I am a second year at the university of virginia
+
 <header>
 
 <!--
